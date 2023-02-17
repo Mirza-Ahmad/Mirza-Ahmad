@@ -1,9 +1,9 @@
 ### Hi Devs 👋
 <h1 align="center">I am Mirza Ahmad</h1>
 
-- 🔭 I’m currently working on **PHP, C++, Deep learning, Machine learning**
+- 🔭 I’m currently working on **PHP, C++, Deep learning, Machine learning, Computer Vision**
 
-- 🌱 I’m currently learning **Deep learning, Machine learning**
+- 🌱 I’m currently learning **Deep learning, Machine learning, Computer Vision**
 
 - 🤝 I’m looking for help with **Data Science**
 
