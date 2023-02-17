@@ -1,11 +1,11 @@
 ### Hi Devs 👋
 <h1 align="center">I am Mirza Ahmad</h1>
 
-- 🔭 I’m currently working on **PHP, C++, JavaScript and Node Js**
+- 🔭 I’m currently working on **PHP, C++, Deep learning, Machine learning**
 
-- 🌱 I’m currently learning **Node Js**
+- 🌱 I’m currently learning **Deep learning, Machine learning**
 
-- 🤝 I’m looking for help with **MERN Stack**
+- 🤝 I’m looking for help with **Data Science**
 
 
 <br>
